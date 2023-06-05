@@ -10,3 +10,4 @@ h = "gggggdddd"
 gh = 123124123
 x = "hello"
 tt = 333333
+s = 9999
